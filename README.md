@@ -1,10 +1,45 @@
-- 👋 Hi, I’m @NirAharon1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--![add bannre discription](https://add banner.jpg)-->
 
-<!---
-NirAharon1/NirAharon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Nir aharon
+I'm Nir from Israel, and this is my portfolio of me as data analyst and python developer
+
+## Skills and Experience
+
+* I'm Fully proficient in SQL 
+* Python is my best tools
+* I try to gain more experience with Tableau
+* and improve my knowledge in deep learning and machine learning
+
+📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/nir-aharon/)
+
+<br />
+
+### Languages and Tools:
+
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"/>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png"/>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
+<a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/>
+<a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+
+
+<br />
+
+
+## Examples of Work
+<!--<img src="https://github.com/.gif" width="512" >-->
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
