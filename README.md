@@ -1,14 +1,14 @@
 <!--![add bannre discription](https://add banner.jpg)-->
 
 # Nir aharon
-I'm Nir from Israel, and this is my portfolio of me as data analyst and python developer
+I'm Nir from Israel, and this is my portfolio of me as data analyst and Business Intelligence Analyst
 
 ## Skills and Experience
 
+* Python is my favorite programming languages
 * I'm Fully proficient in SQL 
-* Python is my best tools
-* I try to gain more experience with Tableau
-* and improve my knowledge in deep learning and machine learning
+* Tableau is my first choice for data visualization
+* I would like to improve my knowledge in deep learning and machine learning
 
 📫 How to reach me
 
