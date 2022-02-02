@@ -33,12 +33,14 @@ Feel free to view my portfolio as a self-taught data analyst and Business Intell
 
 <p align="center">
   <a href="https://github.com/NirAharon1/Data-Analysis-Projects">
-  <img width="340" src="data analysis.jpg"/> </a>
+  <img width="250" src="data analysis.jpg"/> </a>
   <a href="https://github.com/NirAharon1/Deep-Learing-Projects">
-  <img width="340" src="neural net.jfif" /> </a>
+  <img width="250" src="neural net.jfif" /> </a>
+</p>
+<p align="center">
  <a href="https://github.com/NirAharon1/Data-Analysis-Projects">
-  <img width="340" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Data-Analysis-Projects" />
+  <img width="250" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Data-Analysis-Projects" />
 </a>
   <a href="https://github.com/NirAharon1/Deep-Learing-Projects">
-  <img width="340" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Deep-Learing-Projects" />
+  <img width="250" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Deep-Learing-Projects" />
 </p>
