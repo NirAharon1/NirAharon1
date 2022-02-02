@@ -9,7 +9,7 @@ Feel free to view my portfolio as a self-taught data analyst and Business Intell
 * Python is my favorite programming languages
 * I'm Fully proficient in SQL 
 * Tableau is my first choice for data visualization
-* I would like to improve my knowledge in deep learning and machine learning
+* I'm constantly improving my knowledge in deep learning and machine learning
 
 📫 How to reach me
 
