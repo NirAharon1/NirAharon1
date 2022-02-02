@@ -1,6 +1,8 @@
 
-# Nir aharon
-I'm Nir from Israel, and this is my portfolio as a data analyst and Business Intelligence Developer.
+# Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+I'm Nir from Israel, and this is the place where I opensource stuff and break things :rofl:
+
+Feel free to view my portfolio as a self-taught data analyst and Business Intelligence Developer.
 
 ## Skills and Experience
 
@@ -31,12 +33,12 @@ I'm Nir from Israel, and this is my portfolio as a data analyst and Business Int
 
 <p align="center">
   <a href="https://github.com/NirAharon1/Data-Analysis-Projects">
-  <img width="400" src="data analysis.jpg"/> </a>
+  <img width="340" src="data analysis.jpg"/> </a>
   <a href="https://github.com/NirAharon1/Deep-Learing-Projects">
-  <img width="400" src="neural net.jfif" /> </a>
+  <img width="340" src="neural net.jfif" /> </a>
  <a href="https://github.com/NirAharon1/Data-Analysis-Projects">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Data-Analysis-Projects" />
+  <img width="340" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Data-Analysis-Projects" />
 </a>
   <a href="https://github.com/NirAharon1/Deep-Learing-Projects">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Deep-Learing-Projects" />
+  <img width="340" align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Deep-Learing-Projects" />
 </p>
