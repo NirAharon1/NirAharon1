@@ -1,4 +1,3 @@
-<!--![add bannre discription](https://add banner.jpg)-->
 
 # Nir aharon
 I'm Nir from Israel, and this is my portfolio as a data analyst and Business Intelligence Developer.
@@ -29,20 +28,6 @@ I'm Nir from Israel, and this is my portfolio as a data analyst and Business Int
 
 
 ## Examples of Work
-<!--<img src="https://github.com/.gif" width="512" >-->
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... https://github.com/NirAharon1/Deep-Learing-Projects
--->
-
-
 
 <p align="center">
   <a href="https://github.com/NirAharon1/Data-Analysis-Projects">
@@ -54,15 +39,4 @@ I'm Nir from Israel, and this is my portfolio as a data analyst and Business Int
 </a>
   <a href="https://github.com/NirAharon1/Deep-Learing-Projects">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Deep-Learing-Projects" />
-<!--
-</a>
-  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
-  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
-  <a href="https://github.com/YuriDevAT/nikki-my-diary">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
-</a>
-<a href="https://github.com/YuriDevAT/instagram-clone">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
-</a>
--->
 </p>
