@@ -1,7 +1,7 @@
 <!--![add bannre discription](https://add banner.jpg)-->
 
 # Nir aharon
-I'm Nir from Israel, and this is my portfolio of me as data analyst and Business Intelligence Analyst
+I'm Nir from Israel, and this is my portfolio as a data analyst and Business Intelligence Developer.
 
 ## Skills and Experience
 
@@ -18,15 +18,13 @@ I'm Nir from Israel, and this is my portfolio of me as data analyst and Business
 
 ### Languages and Tools:
 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
 <img src="https://img.icons8.com/external-soft-fill-juicy-fish/50/000000/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png"/>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png"/>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/>
-<a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/>
-<a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-
-
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/50/000000/microsoft-sql-server.png"/></a>
+<a href="https://www.postgresql.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/></a>
+<a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
+<a href="https://www.docker.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <br />
 
 
@@ -41,5 +39,30 @@ I'm Nir from Israel, and this is my portfolio of me as data analyst and Business
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... https://github.com/NirAharon1/Deep-Learing-Projects
 -->
+
+
+
+<p align="center">
+  <a href="https://github.com/NirAharon1/Data-Analysis-Projects">
+  <img width="400" src="data analysis.jpg"/> </a>
+  <a href="https://github.com/NirAharon1/Deep-Learing-Projects">
+  <img width="400" src="neural net.jfif" /> </a>
+ <a href="https://github.com/YuriDevAT/sos-animals">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Data-Analysis-Projects" />
+</a>
+  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Deep-Learing-Projects" />
+<!--
+</a>
+  <img width="400" src="https://github.com/YuriDevAT/nikki-my-diary/blob/main/public/thumbnail-nikki.png" />
+  <img width="400" src="https://github.com/YuriDevAT/instagram-clone/blob/main/thumbnail-instagram.png" />
+  <a href="https://github.com/YuriDevAT/nikki-my-diary">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=nikki-my-diary&theme=tokyonight" />
+</a>
+<a href="https://github.com/YuriDevAT/instagram-clone">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=instagram-clone&theme=tokyonight" />
+</a>
+-->
+</p>
