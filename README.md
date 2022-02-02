@@ -49,10 +49,10 @@ I'm Nir from Israel, and this is my portfolio as a data analyst and Business Int
   <img width="400" src="data analysis.jpg"/> </a>
   <a href="https://github.com/NirAharon1/Deep-Learing-Projects">
   <img width="400" src="neural net.jfif" /> </a>
- <a href="https://github.com/YuriDevAT/sos-animals">
+ <a href="https://github.com/NirAharon1/Data-Analysis-Projects">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Data-Analysis-Projects" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <a href="https://github.com/NirAharon1/Deep-Learing-Projects">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=NirAharon1&repo=Deep-Learing-Projects" />
 <!--
 </a>
